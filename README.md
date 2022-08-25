@@ -1,8 +1,8 @@
 <h1 align="center">
-  <p align="center">Compra de Pizzas (Order a Pizza)(Electronic Voting Machine)</p>
+  <p align="center">Compra de Pizzas (Order a Pizza)</p>
 </h1>
 
-Compra de Pizzas (Order a Pizza) is a project made alongside my course in [B7Web](https://b7web.com.br/fullstack/?gclid=EAIaIQobChMI-7eYj5vT-QIVEz6RCh2VfgXQEAAYASAAEgJfifD_BwE&ref=I24108426I) in order to practice JavaScript. It simulates the experience of buying, on a website (desktop and mobile), one or more pizzas of differnt types and sizes.
+Compra de Pizzas (Order a Pizza) is a project made alongside my course in [B7Web](https://b7web.com.br/fullstack/?gclid=EAIaIQobChMI-7eYj5vT-QIVEz6RCh2VfgXQEAAYASAAEgJfifD_BwE&ref=I24108426I) in order to practice JavaScript. It simulates the experience of buying, on a website (desktop and mobile), one or more pizzas of different types and sizes.
 
 ## See Order a Pizza in action
 
